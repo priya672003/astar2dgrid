@@ -36,7 +36,11 @@ Pass all the values to the GirdProblem, and print the solution path.
 
 
 ## PROGRAM
+### DEVELOPED BY
 
+### NAME:  PRIYADARSHINI R
+
+### REG.NO :  212220230038
 
 ```PYTHON 3
 %matplotlib inline
